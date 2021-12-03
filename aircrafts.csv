@@ -1,0 +1,219 @@
+Name,ICAO,IATA,Capacity,Country
+Aerospatiale/Alenia ATR 42-300 / 320,AT43,AT4,50,France
+Aerospatiale/Alenia ATR 42-500,AT45,AT5,50,France
+Aerospatiale/Alenia ATR 42/ ATR 72,\N,ATR,74,France
+Aerospatiale/Alenia ATR 72,AT72,AT7,74,France
+Aerospatiale/BAC Concorde,CONC,SSC,128,France
+Airbus A300 pax,A30B,AB3,200,European consortium
+Airbus A300-600 pax,A306,AB6,266,European consortium
+Airbus A310 Freighter,A310,31F,\N,European consortium
+Airbus A310 all pax models,A310,310,198,European consortium
+Airbus A310-200 Freighter,A310,31X,\N,European consortium
+Airbus A310-200 pax,A310,312,198,European consortium
+Airbus A310-300 Freighter,A310,31Y,\N,European consortium
+Airbus A310-300 pax,A310,313,218,European consortium
+Airbus A318/319/320/321,\N,32S,150,European consortium
+Airbus A318,A318,318,107,European consortium
+Airbus A319,A319,319,124,European consortium
+Airbus A320-100/200,A320,320,150,European consortium
+Airbus A321-100/200,A321,321,186,European consortium
+Airbus A330 all models,A330,330,293,European consortium
+Airbus A330-200,A332,332,293,European consortium
+Airbus A330-300,A333,333,335,European consortium
+Airbus A340 all models,A340,340,303,European consortium
+Airbus A340-200,A342,342,303,European consortium
+Airbus A340-300,A343,343,335,European consortium
+Airbus A340-500,A345,345,316,European consortium
+Airbus A340-600,A346,346,372,European consortium
+Airbus A380 Freighter,\N,38F,\N,European consortium
+Airbus A380 pax,\N,380,525,European consortium
+Airbus A380-800 pax,\N,388,555,European consortium
+Antonov AN-124 Ruslan,A124,A4F,\N,Ukraine
+Antonov AN-12,AN12,ANF,14,Ukraine
+Antonov AN-140,A140,A40,50,Ukraine
+Antonov AN-30,AN30,A30,50,Ukraine
+Antonov AN-32,AN32,A32,50,Ukraine
+Avro RJ100 Avroliner,RJ1H,AR1,100,United Kingdom
+Avro RJ70 Avroliner,RJ70,AR7,70,United Kingdom
+Avro RJ70 RJ85 / RJ100 Avroliner,\N,ARJ,100,United Kingdom
+Avro RJ85 Avroliner,RJ85,AR8,85,United Kingdom
+Avro RJX100,RX1H,AX1,100,United Kingdom
+Avro RJX85 RJX100,\N,ARX,100,United Kingdom
+BAe 146 Freighter (-100/200/300QT),\N,14F,\N,United Kingdom
+BAe 146 Freighter (-100QT & QC),B461,14X,\N,United Kingdom
+BAe 146 Freighter (-200QT & QC),B462,14Y,\N,United Kingdom
+BAe 146 Freighter (-200QT & QC),B463,14Z,\N,United Kingdom
+BAe 146 all pax models,\N,146,70,United Kingdom
+BAe 146-100 Pax,B461,141,70,United Kingdom
+BAe 146-200 Pax,B462,142,112,United Kingdom
+BAe 146-300 Pax,B463,143,128,United Kingdom
+Boeing 707 Combi,B703,70M,\N,United States
+Boeing 707 Freighter,B703,70F,\N,United States
+Boeing 707-300 pax,B703,703,189,United States
+Boeing 707/720 all pax models,\N,707,112,United States
+Boeing 717,B712,717,106,United States
+Boeing 727 Combi,\N,72M,\N,United States
+Boeing 727 Freighter (-100/200),\N,72F,\N,United States
+Boeing 727 all pax models,\N,727,145,United States
+Boeing 727-100 Freighter,B721,72X,\N,United States
+Boeing 727-100 Mixed Configuration,B721,72B,145,United States
+Boeing 727-100 pax,B721,721,145,United States
+Boeing 727-200 Advanced pax,B722,72S,145,United States
+Boeing 727-200 Freighter,B722,72Y,\N,United States
+Boeing 727-200 Mixed Configuration,B722,72C,145,United States
+Boeing 727-200 pax,B722,722,145,United States
+Boeing 737 all Freighter models,\N,73F,\N,United States
+Boeing 737 all pax models,\N,737,126,United States
+Boeing 737-100 pax,B731,731,100,United States
+Boeing 737-200 Combi,B732,73M,\N,United States
+Boeing 737-200 Freighter,B732,73X,\N,United States
+Boeing 737-200 pax,B732,732,115,United States
+Boeing 737-300 Freighter,B733,73Y,\N,United States
+Boeing 737-300 pax,B733,733,128,United States
+Boeing 737-400 pax,B734,734,146,United States
+Boeing 737-500 pax,B735,735,108,United States
+Boeing 737-600 pax,B736,736,110,United States
+Boeing 737-700 (winglets) pax,B737,73W,126,United States
+Boeing 737-700 pax,B737,73G,126,United States
+Boeing 737-800 (winglets) pax,B738,73H,162,United States
+Boeing 737-800 pax,B738,738,162,United States
+Boeing 737-900 pax,B739,739,177,United States
+Boeing 747 all Combi models,\N,74M,266,United States
+Boeing 747 all Freighter models,\N,74F,\N,United States
+Boeing 747 all pax models,\N,747,416,United States
+Boeing 747-100 Freighter,B741,74T,\N,United States
+Boeing 747-100 pax,B741,741,452,United States
+Boeing 747-200 Combi,B742,74C,210,United States
+Boeing 747-200 Freighter,B742,74X,\N,United States
+Boeing 747-200 pax,B742,742,452,United States
+Boeing 747-300 / 747-200 SUD Freighter,B743,74U,\N,United States
+Boeing 747-300 Combi,B743,74D,266,United States
+Boeing 747-300 pax,B743,743,420,United States
+Boeing 747-400 (Domestic) pax,B744,74J,568,United States
+Boeing 747-400 Combi,B744,74E,266,United States
+Boeing 747-400 Freighter,B744,74Y,\N,United States
+Boeing 747-400 pax,B744,744,416,United States
+Boeing 747SP,N74S,74L,316,United States
+Boeing 747SR Freighter,B74R,74V,\N,United States
+Boeing 747SR pax,B74R,74R,316,United States
+Boeing 757 Mixed Configuration,B752,75M,\N,United States
+Boeing 757 all pax models,\N,757,178,United States
+Boeing 757-200 pax,B752,752,178,United States
+Boeing 757-300 pax,B753,753,240,United States
+Boeing 767 all Freighter models,\N,76F,\N,United States
+Boeing 767 all pax models,\N,767,216,United States
+Boeing 767-200 Freighter,B762,76X,\N,United States
+Boeing 767-200 pax,B762,762,216,United States
+Boeing 767-300 Freighter,B763,76Y,\N,United States
+Boeing 767-300 pax,B763,763,269,United States
+Boeing 767-400 pax,B764,764,245,United States
+Boeing 777 all pax models,\N,777,305,United States
+Boeing 777-300 pax,B773,773,386,United States
+British Aerospace ATP,ATP,ATP,68,United Kingdom
+British Aerospace Jetstream 31 32 41,\N,JST,29,United Kingdom
+British Aerospace Jetstream 31,JS31,J31,19,United Kingdom
+British Aerospace Jetstream 41,JS41,J41,29,United Kingdom
+British Aerospace One Eleven 200,BA11,B12,89,United Kingdom
+British Aerospace One Eleven 300,BA11,B13,89,United Kingdom
+British Aerospace One Eleven 400/475,BA11,B14,89,United Kingdom
+British Aerospace One Eleven 500,BA11,B15,109,United Kingdom
+British Aerospace One Eleven,BA11,B11,89,United Kingdom
+Britten-Norman BN-2A Mk III Trislander,TRIS,BNT,16,United Kingdom
+CASA / IPTN 212 Aviocar,C212,CS2,26,Spain
+CASA / IPTN CN-235,CN35,CS5,45,Spain
+Canadair CL-44,CL44,CL4,160,Canada
+Canadair Challenger,CL60,CCJ,18,Canada
+Canadair Regional Jet 100,CRJ1,CR1,50,Canada
+Canadair Regional Jet 200,CRJ2,CR2,50,Canada
+Canadair Regional Jet 700,CRJ7,CR7,70,Canada
+Canadair Regional Jet 900,CRJ9,CR9,80,Canada
+Canadair Regional Jet,\N,CRJ,70,Canada
+Dassault Falcon 10 100 20 200 2000,\N,DF2,8,France
+Dassault Falcon 50 900,\N,DF3,18,France
+Dassault Falcon,\N,DFL,18,France
+De Havilland DH.104 Dove,DOVE,DHD,11,Canada
+De Havilland DH.114 Heron,HERN,DHH,17,Canada
+De Havilland DHC-3 Otter Turbo Otter,DHC3,DHO,9,Canada
+De Havilland DHC-3 Turbo Otter,DHC3,DHL,9,Canada
+De Havilland DHC-7 Dash 7,DHC7,DH7,54,Canada
+De Havilland DHC-8 Dash 8 all models,\N,DH8,50,Canada
+De Havilland DHC-8-100 Dash 8 8Q,DH8A,DH1,40,Canada
+De Havilland DHC-8-200 Dash 8 8Q,DH8B,DH2,40,Canada
+De Havilland DHC-8-300 Dash 8 8Q,DH8C,DH3,50,Canada
+De Havilland DHC-8-400 Dash 8Q,DH8D,DH4,70,Canada
+Douglas DC-10 all Freighters,DC10,D1F,\N,United States
+Douglas DC-10 pax,DC10,D10,270,United States
+Douglas DC-10-10 Freighter,DC10,D1X,\N,United States
+Douglas DC-10-10/15 pax,DC10,D11,270,United States
+Douglas DC-10-30 / 40 Freighters,DC10,D1Y,\N,United States
+Douglas DC-10-30/40 pax,DC10,D1C,270,United States
+Douglas DC-9 all pax models,DC9,DC9,115,United States
+Douglas DC-9-10 pax,DC91,D91,80,United States
+Douglas DC-9-20 pax,DC92,D92,80,United States
+Douglas DC-9-30 pax,DC93,D93,115,United States
+Douglas DC-9-40 pax,DC94,D94,115,United States
+Douglas DC-9-50 pax,DC95,D95,115,United States
+Embraer 170/190,\N,EMJ,98,Brazil
+Embraer 170,E170,E70,70,Brazil
+Embraer 175,E175,E75,78,Brazil
+Embraer 190,E190,E90,98,Brazil
+Embraer 195,E195,E95,116,Brazil
+Embraer EMB.110 Bandeirnate,E110,EMB,18,Brazil
+Embraer EMB.120 Brasilia,E120,EM2,30,Brazil
+Embraer RJ135 / RJ140 / RJ145,\N,ERJ,44,Brazil
+Embraer RJ135,E135,ER3,37,Brazil
+Embraer RJ140,\N,ERD,44,Brazil
+Embraer RJ145 Amazon,E145,ER4,50,Brazil
+Eurocopter (MBB) Bo.105,B105,MBH,5,Germany
+Eurocopter SA330 Puma/AS332 Super Puma,\N,APH,17,France
+Eurocopter SA365C SA365N Dauphin 2,S65C,NDH,8,France
+Fairchild (Swearingen) SA26 SA226 SA227 Metro Merlin Expediter,\N,SWM,12,United States
+Fairchild Dornier 328JET,J328,FRJ,34,Germany
+Fairchild Dornier Do.228,D228,D28,15,Germany
+Fairchild Dornier Do.328,D328,D38,33,Germany
+Fokker 50,F50,F50,50,The Netherlands
+Fokker 70,F70,F70,79,The Netherlands
+Fokker F.28 Fellowship 1000,F28,F21,65,The Netherlands
+Fokker F100,F100,100,100,The Netherlands
+Grumman G.21 Goose,G21,GRG,8,United States
+Gulfstream G-1159 II III IV V,\N,GRJ,19,United States
+Gulfstream/Rockwell Commander,AC68,ACP,8,United States
+Gulfstream/Rockwell Turbo Commander,AC90,ACT,8,United States
+Gulfstream/Rockwell Turbo Commander,\N,ACD,8,United States
+Hawker Siddeley HS.125,\N,H25,12,United Kingdom
+Hawker Siddeley HS.748,A748,HS7,48,United Kingdom
+Ilyushin IL114,I114,I14,64,Russian Federation
+Ilyushin IL96M pax,IL96,I9M,335,Russian Federation
+LET 410,L410,L4T,19,Czech Republic
+Lockheed L-1011 50 100 150 200 250,L101,L11,256,United States
+Lockheed L-1011 500 Tristar pax,L101,L15,256,United States
+Lockheed L-1011 Tristar Freighter,L101,L1F,\N,United States
+Lockheed L-1011 Tristar pax,L101,L10,256,United States
+Lockheed L-182 282 382 L-100 Hercules,C130,LOH,\N,United States
+MIL Mi-8 / Mi-17 / Mi-171 / Mil-172,MI8,MIH,32,Russian Federation
+McDonnell Douglas MD11 Freighter,MD11,M1F,\N,United States
+McDonnell Douglas MD11 Mixed Conf.,MD11,M1M,\N,United States
+McDonnell Douglas MD11 pax,MD11,M11,410,United States
+McDonnell Douglas MD80,MD80,M80,172,United States
+McDonnell Douglas MD81,MD81,M81,172,United States
+McDonnell Douglas MD82,MD82,M82,172,United States
+McDonnell Douglas MD83,MD83,M83,172,United States
+McDonnell Douglas MD87,MD87,M87,139,United States
+McDonnell Douglas MD88,MD88,M88,172,United States
+McDonnell Douglas MD90,MD90,M90,187,United States
+Mitsubishi Mu-2,MU2,MU2,11,Japan
+NAMC YS-11,YS11,YS1,60,Japan
+Raytheon Beechcraft 1900/1900C,B190,BES,19,USA
+Raytheon Beechcraft 1900D,B190,BEH,19,USA
+Saab 2000,SB20,S20,50,Sweden
+Saab SF340A/B,SF34,SF3,37,Sweden
+Shorts SC-5 Belfast,BELF,SHB,\N,United Kingdom
+Shorts SC-7 Skyvan,SC7,SHS,19,United Kingdom
+Shorts SD.330,SH33,SH3,30,United Kingdom
+Shorts SD.360,SH36,SH6,36,United Kingdom
+Sikorsky S-58T,S58T,S58,16,United States
+Sikorsky S-61,S61,S61,30,United States
+Sikorsky S-76,S76,S76,13,United States
+Tupolev Tu-204 / Tu-214,T204,T20,212,Russian Federation
+Tupolev Tu134,T134,TU3,96,Russian Federation
+Tupolev Tu154,T154,TU5,164,Russian Federation
